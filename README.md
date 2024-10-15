@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Lorena Cristina Sucerquia, de profesión Ingeniera en Productividad y Calidad con experiencia en diseño textil. Trabajar con software de diseño y aplicativo textiles me hicieron interesarme por aprender de desarrollo de Software. Actualmente me encuentro estudiando desarrollo de software, donde he podido aprender de varios lenguajes como Java Script, Java , Python y un poco de todo el ciclo para el desarrollo de software. También me encuentro realizando un bootcam en base de datos con Talento tech del ministerio de las TIC..</h1>
-<h3 align="center">Soy un apasionado por el aprendizaje.</h3>
+<h1 align="center">Soy Lorena Cristina Sucerquia!</h1>
+<h3 align="center">De profesión Ingeniera en Productividad y Calidad con experiencia en diseño textil. Trabajar con software de diseño y aplicativos textiles me hicieron interesarme por aprender de desarrollo de Software. Actualmente me encuentro estudiando desarrollo de software, donde he podido aprender de varios lenguajes como Java Script, Java , Python y un poco de todo el ciclo para el desarrollo de software. También me encuentro realizando un bootcam en base de datos con Talento Tech del ministerio de las TIC.</h3>
 
 - 🌱 I’m currently learning **React, angular, Base de datos, java**
 
